@@ -1,5 +1,12 @@
 # nextjs-typescript-boilerplate
 
+## Getting started
+
+```
+npm install
+npm run dev
+```
+
 ## Features
 
 -   [x] React development with Next.js and TypeScript
